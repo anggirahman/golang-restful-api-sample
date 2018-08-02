@@ -1,5 +1,5 @@
 # Golang RestfulAPI sample simple
 
-## mkdir -p $GOPATH/src/github.com/{yours}/restfulapi1
+###### mkdir -p $GOPATH/src/github.com/{yours}/restfulapi1
 
-## go get github.com/gorilla/mux
+###### go get github.com/gorilla/mux
