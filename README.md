@@ -38,9 +38,9 @@
 **[POST]** http://localhost:83/people/3 --> Insert Data
     body send =
 
->     {
-	>     "firstname" : "Arkan",
-	>     "lastname" : "Sarfaraz"
->     }
+> {
+>     "firstname" : "Arkan",
+>     "lastname" : "Sarfaraz"
+>}
 
 **[DELETE]** http://localhost:83/people/2 --> Delete data  id = 2
